@@ -1,16 +1,32 @@
-## Hi there 👋
+# ¡Hola, soy Olivia Grima! 👋  
 
-<!--
-**oliviagrima/oliviagrima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenid@ a mi perfil de GitHub!  
+Soy estudiante de **Ingeniería Informática y Administración y Dirección de Empresas**. Me interesa la intersección entre tecnología y negocios, y cómo el desarrollo de software y el análisis de datos pueden impulsar la innovación empresarial.  
 
-Here are some ideas to get you started:
+## 🌱 Sobre mí  
+- 📌 Actualmente profundizando en desarrollo web, análisis de datos e inteligencia artificial.  
+- 🚀 Me apasiona la combinación entre estrategia empresarial y tecnología.  
+- 💻 Trabajo con Python, Java, HTML, CSS, SQL y frameworks web.  
+- 🎨 Disfruto diseñando interfaces intuitivas y optimizadas para la experiencia del usuario.  
+- 📚 Siempre en busca de nuevos retos y conocimientos.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estadísticas de GitHub  
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliviagrima&layout=compact&langs_count=10&theme=gruvbox" alt="Lenguajes más usados">
+</p>
+
+## 📈 Status  
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oliviagrima&show_icons=true&theme=gruvbox" alt="Estadísticas de GitHub">
+</p>
+
+## 🎯 Mis objetivos  
+✔️ Contribuir a proyectos open-source.  
+✔️ Mejorar mis habilidades en ciencia de datos y desarrollo web.  
+✔️ Participar en iniciativas tecnológicas con impacto positivo.  
+
+---
+
+✨ **Gracias por visitar mi perfil, nos vemos en el código!** 🚀  
+
