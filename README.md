@@ -1,14 +1,14 @@
 # ¡Hola, soy Olivia Grima! 👋  
 
 ¡Bienvenid@ a mi perfil de GitHub!  
-Soy estudiante de **Ingeniería Informática y Administración y Dirección de Empresas**. Me interesa la intersección entre tecnología y negocios, y cómo el desarrollo de software y el análisis de datos pueden impulsar la innovación empresarial.  
+Soy estudiante de **Ingeniería Informática y Administración y Dirección de Empresas**. Me interesa la intersección entre tecnología y negocios y el análisis de datos que pueden impulsar la innovación empresarial.  
 
-## 🌱 Sobre mí  
-- 📌 Actualmente profundizando en desarrollo web, análisis de datos e inteligencia artificial.  
+## 🙋🏽‍♀️ Sobre mí  
+- 📌 Actualmente profundizando en desarrollo web e inteligencia artificial.  
 - 🚀 Me apasiona la combinación entre estrategia empresarial y tecnología.  
-- 💻 Trabajo con Python, Java, HTML, CSS, SQL y frameworks web.  
-- 🎨 Disfruto diseñando interfaces intuitivas y optimizadas para la experiencia del usuario.  
-- 📚 Siempre en busca de nuevos retos y conocimientos.  
+- 💻 Trabajo con Python, HTML, CSS, SQL.  
+- 🎀 Disfruto diseñando interfaces intuitivas y optimizadas para la experiencia del usuario.  
+- 🔎 Siempre en busca de nuevos retos y conocimientos.  
 
 ## 📊 Estadísticas de GitHub  
 
