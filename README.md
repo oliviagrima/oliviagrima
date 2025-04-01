@@ -16,6 +16,11 @@ Soy estudiante de **Ingeniería Informática y Administración y Dirección de E
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliviagrima&layout=compact&langs_count=10&theme=gruvbox" alt="Lenguajes más usados">
 </p>
 
+<p align="center">
+  <img align="center" src="https://github-readme-tech-stack.vercel.app/api/top-langs/?username=oliviagrima&include_forks=true&layout=compact&langs_count=10&theme=gruvbox" alt="Lenguajes más usados incluyendo forks">
+</p>
+
+
 ## 📈 Status  
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oliviagrima&show_icons=true&theme=gruvbox" alt="Estadísticas de GitHub">
