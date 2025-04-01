@@ -6,7 +6,7 @@ Soy estudiante de **Ingeniería Informática y Administración y Dirección de E
 ## 🙋🏽‍♀️ Sobre mí  
 - 📌 Actualmente profundizando en desarrollo web e inteligencia artificial.  
 - 🌸 Me apasiona la combinación entre estrategia empresarial y tecnología.  
-- 💻 Trabajo con Python, HTML, CSS y SQL.  
+- 💻 Trabajo con Python, HTML y CSS.  
 - 🎀 Disfruto diseñando interfaces intuitivas y optimizadas para la experiencia del usuario.  
 - 🔎 Siempre en busca de nuevos retos y conocimientos.  
 
